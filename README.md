@@ -25,9 +25,9 @@ cd traveltours
 
 - Open the `index.html`file in your browser to see.
 
-
-
 ## Deployment
+
+The site is deployed live at [this link](https://seatours.netlify.app)
 
 ## Built with
 
@@ -38,8 +38,6 @@ cd traveltours
 - Swiper.js
 - Scroll reveal.js
 
-
-  
 ## Authors
 
 Syed Umair Ali - _Built the project_ - @SyedUmairCodes
